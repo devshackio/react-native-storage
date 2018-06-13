@@ -1,5 +1,5 @@
 {
-  "name": "react-native-storage",
+  "name": "@devshack/react-native-storage",
   "version": "0.2.2",
   "description": "A local storage wrapper for both react-native(AsyncStorage) and browser(localStorage). Support size controlling, auto expiring, remote data auto syncing and getting batch data in one query.",
   "main": "dist/storage.js",
@@ -17,19 +17,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sunnylqm/react-native-storage.git"
+    "url": "git+https://github.com/devshackio/react-native-storage.git"
   },
   "keywords": [
     "react-native",
     "localStorage",
     "AsyncStorage"
   ],
-  "author": "sunnylqm",
+  "author": "devshackio",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sunnylqm/react-native-storage/issues"
+    "url": "https://github.com/devshackio/react-native-storage/issues"
   },
-  "homepage": "https://github.com/sunnylqm/react-native-storage#readme",
+  "homepage": "https://github.com/devshackio/react-native-storage#readme",
   "devDependencies": {
     "babel-cli": "6.26.0",
     "babel-jest": "^19.0.0",
